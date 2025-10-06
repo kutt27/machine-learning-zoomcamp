@@ -1,4 +1,4 @@
-# 🎯 Module 2: Machine Learning for Regression
+# Module 2: Machine Learning for Regression
 
 > **Master regression techniques through a complete car price prediction project**
 
@@ -14,7 +14,7 @@ By the end of this module, you will:
 - **Understand** regularization and overfitting prevention
 - **Use** the model for real-world predictions
 
-## 🚗 Project Overview: Car Price Prediction
+## Project Overview: Car Price Prediction
 
 **Dataset**: [Kaggle Car Dataset](https://www.kaggle.com/CooperUnion/cardataset)  
 **Goal**: Predict car prices based on features like make, model, year, mileage, etc.  

@@ -1,0 +1,35 @@
+# Core ML and Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipywidgets>=7.6.0
+
+# Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Advanced ML Libraries
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Web Development (for deployment notebooks)
+flask>=2.0.0
+requests>=2.25.0
+
+# Utilities
+tqdm>=4.62.0
+joblib>=1.1.0
+
+# For specific notebook requirements
+pillow>=8.3.0  # Image processing
+opencv-python>=4.5.0  # Computer vision
